@@ -1,16 +1,15 @@
-# VLSI-LAB-EXP-5
+EXP-5
 date:
 
                                                         SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
                                                         
-AIM: To simulate and synthesis finite state machine using Xilinx ISE.
+AIM: To simulate and synthesis finite state machine using vivado2023.3.
 
-**APPARATUS REQUIRED: **
+APPARATUS REQUIRED:
+vivado 2023.3
+ 
 
-Xilinx 14.7 
-Spartan6 FPGA
-
-**PROCEDURE: **
+PROCEDURE: 
 STEP:1 Start the Xilinx navigator, Select and Name the New project.
 
 STEP:2 Select the device family, device, package and speed.
