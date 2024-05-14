@@ -2,7 +2,7 @@ EXP-5
 
 date:
 
-                                                        SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+                  SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
                                                         
 AIM: To simulate and synthesis finite state machine using vivado2023.3.
 
